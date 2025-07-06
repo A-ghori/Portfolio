@@ -47,6 +47,9 @@
       transform: translateY(0);
     }
   }
+
+
+  
   @keyframes meteor {
     0% {
       transform: rotate(215deg) translateX(0);
@@ -159,4 +162,29 @@
   margin: 0 auto;
   padding: 0;
   text-align: center;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+
+.typewriter {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 7px solid rgba(139,92,246,0.5);
+  width: 2;
+  animation:
+    typing 2.5s steps(25, end) forwards,
+    blink 1s step-end infinite;
 }

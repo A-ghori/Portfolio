@@ -6,11 +6,11 @@ export const HeroSection = () =>{
     >
 <div className="container max-w-4xl mx-auto text-center z-10">
 <div className="space-y-6">
-<h1 className="text-4xl md:text-6-xl font-bold tracking-tight">
-    <span className="opacity-3 animate-fade-in"> Hi, I am </span>
-    <span className="text-primary opacity-0 animate-fade-in-delay-3"> Shubhayu </span>
-    <span className="text-glow ml-2 opacity-0 animate-fade-in-delay-4"> Barua </span>
+<h1 className="text-4xl md:text-4xl font-bold tracking-tight">
+  <span className="opacity-30 animate-fade-in">Hi, I am</span>
+  <span className="text-primary ml-3 typewriter"> Shubhayu Barua...</span>
 </h1>
+
 
 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-4"> 
      I'm a CS major student , building useful things with code is my passion.

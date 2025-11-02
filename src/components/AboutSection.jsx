@@ -34,11 +34,15 @@ Every line of code I write is focused on building products that make life easier
 Want to know more about me ?
 
 </a>
-<a href="#contact" className="cosmic-button">
-
-Download CV 
-
+<a 
+  href="https://drive.google.com/uc?export=download&id=17zYEcIRs8GeiHA6lpQjWhfNonfjU7YOE" 
+  className="cosmic-button" 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  Download CV
 </a>
+
 
 
 
@@ -96,13 +100,12 @@ Download CV
     
     </div>
 <div className="text-left">
-<h4 className="font-semibold text-lg">Web Development </h4>
-<p className="text-muted-foreground">
-    Creating responsive websites and web applications with modern frameworks
-</p>
-
-
+  <h4 className="font-semibold text-lg">AI & ML</h4>
+  <p className="text-muted-foreground">
+    Building intelligent systems powered by Machine Learning and Artificial Intelligence — including data-driven prediction models, neural networks, and automation solutions that solve real-world problems with efficiency and accuracy.
+  </p>
 </div>
+
 
 
 
@@ -125,10 +128,11 @@ Download CV
 
 
     <div className="text-left">
-<h4 className="font-semibold text-lg">Web Development </h4>
+<h4 className="font-semibold text-lg"> Problem Solving Skill </h4>
 <p className="text-muted-foreground">
-    Creating responsive websites and web applications with modern frameworks
+    Strong problem-solving foundation built through consistent practice on LeetCode — focusing on algorithms, data structures, and real-world coding challenges. I break down problems logically, optimize solutions, and write clean, efficient code with an emphasis on time and space complexity.
 </p>
+
 
 
 </div>

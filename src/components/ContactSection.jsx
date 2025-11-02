@@ -122,7 +122,7 @@ export const ContactSection = () => {
 
             {/* LinkedIn */}
             <a
-              href="https://www.linkedin.com/in/shubhayubarua/"
+              href="www.linkedin.com/in/shubhayubarua"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-2 rounded-full bg-blue-100 hover:bg-blue-200 transition text-blue-700"

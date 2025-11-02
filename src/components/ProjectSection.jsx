@@ -4,22 +4,22 @@ const projects = [
 {
   id : 1,
   title: "Saas Landing Page",
-  description:"A beautiful landing page using react",
-  image: "/projects/project1.png",
-  tags: ["React", "Nodejs" , "stripe"],
+  description:"Total Passenger Predicting in Titanic",
+  image: "/projects/Project1.png",
+  tags: ["React", "Nodejs" , "Matplotlib"],
   demoUrl: "#",
   githubUrl: "#",
 },
 
-{
-  id : 2,
-  title: "Saas Landing Page",
-  description:"A beautiful landing page using react",
-  image: "/projects/project2.png",
-  tags: ["React", "Nodejs" , "stripe"],
-  demoUrl: "#",
-  githubUrl: "#",
-},
+// {
+//   id : 2,
+//   title: "Saas Landing Page",
+//   description:"A beautiful landing page using react",
+//   image: "/projects/project2.png",
+//   tags: ["React", "Nodejs" , "stripe"],
+//   demoUrl: "#",
+//   githubUrl: "#",
+// },
 
 {
   id : 3,
